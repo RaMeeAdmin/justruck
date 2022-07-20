@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/466227028/android.barcode_scan2.iml" filepath="$PROJECT_DIR$/.idea/modules/466227028/android.barcode_scan2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1290759711/android.connectivity_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/1290759711/android.connectivity_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/854577806/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/854577806/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-122632494/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-122632494/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-938290249/android.geocoding.iml" filepath="$PROJECT_DIR$/.idea/modules/-938290249/android.geocoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1293578794/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1293578794/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-693752782/android.location.iml" filepath="$PROJECT_DIR$/.idea/modules/-693752782/android.location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1928642683/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1928642683/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1411610661/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1411610661/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/168222233/android.printing.iml" filepath="$PROJECT_DIR$/.idea/modules/168222233/android.printing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/46725577/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/46725577/android.shared_preferences_android.iml" />
+    </modules>
+  </component>
+</project>
